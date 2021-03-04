@@ -11,3 +11,18 @@
     transform: translate(-50%,-70%);
     transition: all 2s ease-in-out;
 }
+.s1{
+    background-image: url("https://i.pinimg.com/736x/50/df/34/50df34b9e93f30269853b96b09c37e3b.jpg");
+    background-size: contain;
+}
+.section h1{
+    font-size: 64px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-20%);
+    transition: all 1s ease-in-out;
+    background: linear-gradient(to left,#87c7df,#648896);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
